@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related production APIs"
+  message: "Welcome to Bank accounts related prod APIs"
   contactDetails:
     name: "James Bond - Product owner"
     email: "{cipher}4c866aad1a02da1c82ca0beb048794fa681f4af2c59a83a9dc962b7370762382"

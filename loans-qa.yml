@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Bank loans related QA APIs"
+  contactDetails:
+    name: "Axel - QA Lead"
+    email: "axel@bank.com"
+  onCallSupport:
+    - (888) 265-3765
+    - (888) 734-8371

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Bank loans related local APIs"
+  contactDetails:
+    name: "Mark Hunt - Developer"
+    email: "hunt@bank.com"
+  onCallSupport:
+    - (881) 555-5421
+    - (881) 523-3415

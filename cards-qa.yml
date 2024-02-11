@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Bank cards related QA APIs"
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@bank.com"
+  onCallSupport:
+    - (717) 265-3765
+    - (717) 734-8371

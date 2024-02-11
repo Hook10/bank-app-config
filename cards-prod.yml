@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Bank cards related prod APIs"
+  contactDetails:
+    name: "Emely Blank - Product owner"
+    email: "blank@bank.com"
+  onCallSupport:
+    - (717) 265-3765
+    - (717) 734-8371

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Bank loans related prod APIs"
+  contactDetails:
+    name: "Richard - Product owner"
+    email: "richard@bank.com"
+  onCallSupport:
+    - (777) 765-3765
+    - (777) 834-8371

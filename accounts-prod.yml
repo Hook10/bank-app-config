@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related prod APIs"
+  contactDetails:
+    name: "James Bond - Product owner"
+    email: "bond@bank.com"
+  onCallSupport:
+    - (007) 265-3765
+    - (007) 734-8371

@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related prod APIs"
   contactDetails:
     name: "James Bond - Product owner"
-    email: "bond@bank.com"
+    email: "{cipher}4c866aad1a02da1c82ca0beb048794fa681f4af2c59a83a9dc962b7370762382"
   onCallSupport:
     - (007) 265-3765
     - (007) 734-8371
